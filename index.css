@@ -7,10 +7,9 @@
   text-decoration: none;
   }
  body {
-   /* overflow-x: hidden; */
+ overflow-x: hidden; 
    -ms-overflow-style: scrollbar;
    overflow-y: scroll;
-   /* overscroll-behavior-y: none; */
    font-size: 19px;
    color: hsla(213, 49%, 23%, 0.986);
    font-family: Arial,Helvetica,sans-serif;
@@ -290,7 +289,7 @@ width: 50%;
   color: rgb(23, 179, 179);
  }
  .box3 section span{
-  font-size: 26px;
+  font-size: 20px;
   color: tomato;
 }
  .box4 .box section{
@@ -308,7 +307,7 @@ width: 50%;
   color: white;
  }
  .box7 section h1{
-   font-size: 40px;
+   font-size: 26px;
  }
  .box7{
   justify-content: space-between;
